@@ -1,4 +1,4 @@
-## Clean Code JavaScript
+# Clean Code JavaScript
 
 ![](/assets/clean-code-js-cover.png)
 
