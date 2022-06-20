@@ -1,0 +1,17 @@
+.before {
+	background-color: #000;
+	background-image: url(images/bg.gif);
+	background-repeat: no-repeat;
+	background-position: left top;
+
+	margin-top: 10px;
+	margin-right: 5px;
+	margin-bottom: 10px;
+	margin-left: 5px;
+}
+
+.after {
+	background: #000 url(images/bg.gif) no-repeat left top;
+
+	margin: 10px 5px 10px 5px;
+}
